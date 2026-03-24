@@ -22,4 +22,4 @@ Projeyi yerel bilgisayarınızda çalıştırmak isterseniz:
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/describeCarAmount.git](https://github.com/KULLANICI_ADIN/describeCarAmount.git)
+   git clone [https://github.com/RojinTemell/describeCarAmount.git](https://github.com/RojinTemell/describeCarAmount.git)
